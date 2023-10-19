@@ -17,5 +17,5 @@ Esperamos que estos datos sean de utilidad para aquellos que trabajan con inform
 ## Contribuciones
 Si deseas contribuir con datos adicionales, correcciones o mejoras en la georreferenciación, te invitamos a hacerlo mediante las solicitudes de extracción (pull requests) a este repositorio. Por favor, asegúrate de que los datos sean precisos y estén debidamente documentados.
 
-##Licencia
+## Licencia
 Los datos georreferenciados contenidos en este repositorio pueden estar sujetos a restricciones de uso. Se recomienda revisar los términos de licencia de los datos específicos antes de utilizarlos en proyectos comerciales o académicos.
